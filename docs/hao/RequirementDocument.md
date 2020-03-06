@@ -1,6 +1,6 @@
 ## 1 模块功能图
 
-![模块图](./:img/模块图.jpg)
+![模块图](https://github.com/BbidA/FinalProject/blob/master/docs/hao/img/%E6%A8%A1%E5%9D%97%E5%9B%BE.jpg)
 
 ## 2 功能需求
 
@@ -596,7 +596,7 @@
 
 
 
-### 2.5 用例6 教师查看分析报告
+### 2.6 用例6 教师查看分析报告
 
 #### 特性描述
 
