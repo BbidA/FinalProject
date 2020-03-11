@@ -1,0 +1,33 @@
+{
+  "supporter": "辅助",
+  "medic": "医疗",
+  "guard": "近卫",
+  "vanguard": "先锋",
+  "caster": "法师",
+  "specialist": "特种",
+  "sniper": "狙击",
+
+  "melee": "近战位",
+  "ranged": "远程位",
+
+  "healing": "治疗",
+  "support": "支援",
+  "dps": "输出",
+  "aoe": "群攻",
+  "slow": "减速",
+  "survival": "生存",
+  "defense": "防护",
+  "debuff": "削弱",
+  "shift": "位移",
+  "crowd-control": "控场",
+  "nuker": "爆发",
+  "summon": "召唤",
+  "fast-redeploy": "快速复活",
+  "dp-recovery": "费用回复",
+  "robot": "支援机械",
+
+  "career": "类型",
+  "position": "位置",
+  "affix": "词缀",
+  "star": "稀有度"
+}

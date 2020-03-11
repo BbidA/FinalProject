@@ -1,0 +1,36 @@
+{
+  "name": "final-demo",
+  "version": "1.0.0",
+  "description": "My glorious Nuxt.js project",
+  "author": "liao",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt-ts",
+    "build": "nuxt-ts build",
+    "generate": "nuxt-ts generate",
+    "start": "nuxt-ts start",
+    "lint": "eslint --ext .ts,.js,.vue ."
+  },
+  "dependencies": {
+    "@nuxt/typescript-runtime": "^0.3.8",
+    "@nuxtjs/axios": "^5.9.5",
+    "@types/d3": "^5.7.2",
+    "codemirror": "^5.51.0",
+    "d3": "^5.15.0",
+    "lodash": "^4.17.15",
+    "marked": "^0.8.0",
+    "nuxt": "^2.0.0",
+    "nuxt-typed-vuex": "^0.1.16",
+    "vue-i18n": "^8.15.3"
+  },
+  "devDependencies": {
+    "@nuxt/typescript-build": "^0.5.6",
+    "@nuxtjs/eslint-config-typescript": "^1.0.2",
+    "@nuxtjs/vuetify": "^1.0.0",
+    "@types/codemirror": "0.0.84",
+    "@types/lodash": "^4.14.149",
+    "@types/webpack": "^4.41.6",
+    "@types/webpack-env": "^1.15.1",
+    "eslint": "^6.8.0"
+  }
+}
