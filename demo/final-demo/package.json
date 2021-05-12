@@ -15,7 +15,7 @@
     "@nuxt/typescript-runtime": "^0.3.8",
     "@nuxtjs/axios": "^5.9.5",
     "@types/d3": "^5.7.2",
-    "codemirror": "^5.51.0",
+    "codemirror": "^5.58.2",
     "d3": "^5.15.0",
     "lodash": "^4.17.15",
     "marked": "^0.8.0",
